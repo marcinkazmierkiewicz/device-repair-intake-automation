@@ -1,16 +1,20 @@
-Device Repair Intake – Process Automation Concept
+# Device Repair Intake – Automation Concept
 
-This project explores how a small repair service could organise incoming repair requests using automation.
+This project explores how a small repair service could organise incoming repair requests using workflow automation.
 
-Concept
-A request submitted by a customer is captured automatically and added to a list where it can be tracked and prioritised.
+## Example Scenario
+A customer submits a repair request.
 
-Objectives
-• Improve organisation of repair jobs
-• Reduce manual tracking
-• Ensure requests are not missed
+Automation could:
+1. Capture the request
+2. Store the details
+3. Notify the technician
+4. Track repair status
 
-Learning focus
-• Automation triggers
-• Data organisation
-• Workflow thinking
+## Why This Project
+Working with device repairs made me realise how useful automation could be for organising work and reducing manual tracking.
+
+## Learning Focus
+- Workflow automation
+- Process improvement
+- Practical use cases
