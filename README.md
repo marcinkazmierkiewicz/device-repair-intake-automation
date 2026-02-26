@@ -1,5 +1,7 @@
 # Device Repair Intake – Automation Concept
 
+Email → Workflow Trigger → Extract Data → Store Request → Notify User
+
 This project explores how a small repair service could organise incoming repair requests using workflow automation.
 
 ## Example Scenario
